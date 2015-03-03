@@ -1,0 +1,17 @@
+{
+  "name": "jsonform",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jitheshgopan/jsonform",
+  "authors": [
+    "Jithesh Gopan <jitheshgopan@gmail.com>"
+  ],
+  "main": "lib/jsonform.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
